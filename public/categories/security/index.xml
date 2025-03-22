@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tarang Chikhalia</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Tarang Chikhalia</description>
+    <title>Security on Tarang Chikhalia</title>
+    <link>http://localhost:1313/categories/security/</link>
+    <description>Recent content in Security on Tarang Chikhalia</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Tue, 24 Dec 2024 13:43:12 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/security/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Envelope Encryption: A secure approach to secret management.</title>
       <link>http://localhost:1313/posts/envelope-encryption/</link>
