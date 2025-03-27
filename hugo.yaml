@@ -56,24 +56,24 @@ params:
     iconHeight: 35
 
   # profile-mode
-  # profileMode:
-  #   enabled: false # needs to be explicitly set
-  #   title: ExampleSite
-  #   subtitle: "This is subtitle"
-  #   imageUrl: "<img location>"
-  #   imageWidth: 120
-  #   imageHeight: 120
-  #   imageTitle: my image
-  #   buttons:
-  #     - name: Posts
-  #       url: posts
-  #     - name: Tags
-  #       url: tags
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: Tarang Chikhalia
+    subtitle: "I am a Software Engineer and I love building stuff. Beyond coding, I am into cosmology 🔭, hiking 🥾 and video games 🎮."
+    imageUrl: "/profile_photo.jpg"
+    imageWidth: 240
+    imageHeight: 240
+    imageTitle: profile_photo
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: I am Tarang Chikhalia, a passionate Software Engineer, System Designer, and lifelong learner based in Ottawa, Canada. Beyond coding, I am a stargazer and cosmology enthusiast, loves camping and hiking and play video games.
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: I am Tarang Chikhalia, a passionate Software Engineer, System Designer, and lifelong learner based in Ottawa, Canada. Beyond coding, I am a stargazer and cosmology enthusiast, loves camping and hiking and play video games.
 
   socialIcons:
     - name: x
