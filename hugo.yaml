@@ -60,7 +60,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Tarang Chikhalia
     subtitle: "I am a Software Engineer and I love building stuff. Beyond coding, I am into cosmology 🔭, hiking 🥾 and video games 🎮."
-    imageUrl: "/profile_photo.jpg"
+    imageUrl: "/profile_photo.JPG"
     imageWidth: 240
     imageHeight: 240
     imageTitle: profile_photo
